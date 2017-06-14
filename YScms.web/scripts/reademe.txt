@@ -1,0 +1,1 @@
+Here contains basic Javascripts that would be used in the project
